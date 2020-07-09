@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Hudsonprem/pokecards/static/css/main.c5aa055b.chunk.css",
-    "main.js": "/Hudsonprem/pokecards/static/js/main.618d0358.chunk.js",
-    "main.js.map": "/Hudsonprem/pokecards/static/js/main.618d0358.chunk.js.map",
-    "runtime-main.js": "/Hudsonprem/pokecards/static/js/runtime-main.3371967e.js",
-    "runtime-main.js.map": "/Hudsonprem/pokecards/static/js/runtime-main.3371967e.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/Hudsonprem/pokecards/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.40d9d520.chunk.js": "/Hudsonprem/pokecards/static/js/2.40d9d520.chunk.js",
-    "static/js/2.40d9d520.chunk.js.map": "/Hudsonprem/pokecards/static/js/2.40d9d520.chunk.js.map",
-    "index.html": "/Hudsonprem/pokecards/index.html",
-    "precache-manifest.1a2f6ee65a8a700c3e3bd3739bc7cfde.js": "/Hudsonprem/pokecards/precache-manifest.1a2f6ee65a8a700c3e3bd3739bc7cfde.js",
-    "service-worker.js": "/Hudsonprem/pokecards/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/Hudsonprem/pokecards/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.c5aa055b.chunk.css.map": "/Hudsonprem/pokecards/static/css/main.c5aa055b.chunk.css.map",
-    "static/js/2.40d9d520.chunk.js.LICENSE.txt": "/Hudsonprem/pokecards/static/js/2.40d9d520.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Hudsonprem/pokecards/static/media/EridanusCondensed3DItalic-1gXL.c5e7d25b.otf",
-    "static/media/card.css": "/Hudsonprem/pokecards/static/media/OverstreetBible-Mnmw.a50e9724.otf"
+    "main.css": "/pokecards/static/css/main.2502c444.chunk.css",
+    "main.js": "/pokecards/static/js/main.f5f45fc0.chunk.js",
+    "main.js.map": "/pokecards/static/js/main.f5f45fc0.chunk.js.map",
+    "runtime-main.js": "/pokecards/static/js/runtime-main.8b9b7c75.js",
+    "runtime-main.js.map": "/pokecards/static/js/runtime-main.8b9b7c75.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/pokecards/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.40d9d520.chunk.js": "/pokecards/static/js/2.40d9d520.chunk.js",
+    "static/js/2.40d9d520.chunk.js.map": "/pokecards/static/js/2.40d9d520.chunk.js.map",
+    "index.html": "/pokecards/index.html",
+    "precache-manifest.891a15584f5e3c71b2d0bcd04ce92480.js": "/pokecards/precache-manifest.891a15584f5e3c71b2d0bcd04ce92480.js",
+    "service-worker.js": "/pokecards/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/pokecards/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.2502c444.chunk.css.map": "/pokecards/static/css/main.2502c444.chunk.css.map",
+    "static/js/2.40d9d520.chunk.js.LICENSE.txt": "/pokecards/static/js/2.40d9d520.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokecards/static/media/EridanusCondensed3DItalic-1gXL.c5e7d25b.otf",
+    "static/media/card.css": "/pokecards/static/media/OverstreetBible-Mnmw.a50e9724.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3371967e.js",
+    "static/js/runtime-main.8b9b7c75.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.40d9d520.chunk.js",
-    "static/css/main.c5aa055b.chunk.css",
-    "static/js/main.618d0358.chunk.js"
+    "static/css/main.2502c444.chunk.css",
+    "static/js/main.f5f45fc0.chunk.js"
   ]
 }
